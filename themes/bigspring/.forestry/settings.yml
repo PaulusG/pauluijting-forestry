@@ -1,0 +1,234 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ""
+webhook_url:
+sections:
+  - type: heading
+    label: Homepage
+  - type: document
+    path: content/english/_index.md
+    label: Homepage (en)
+  - type: document
+    path: content/deutsch/_index.md
+    label: Homepage (de)
+  - type: heading
+    label: Products
+  - type: document
+    path: content/english/products/_index.md
+    label: Product (en)
+  - type: document
+    path: content/deutsch/products/_index.md
+    label: Product (de)
+  - type: directory
+    path: content/english/products
+    label: All Products (en)
+    create: documents
+    match: "**/*"
+    exclude: _index.md
+    templates:
+      - new-product
+  - type: directory
+    path: content/deutsch/products
+    label: All Products (de)
+    create: documents
+    match: "**/*"
+    exclude: _index.md
+    templates:
+      - new-product
+  - type: heading
+    label: Case Studies
+  - type: document
+    path: content/english/case-studies/_index.md
+    label: Case Studies (en)
+  - type: document
+    path: content/deutsch/case-studies/_index.md
+    label: Case Studies (de)
+  - type: directory
+    path: content/english/case-studies
+    label: All Case Studies (en)
+    create: documents
+    match: "**/*"
+    exclude: _index.md
+    templates:
+      - case-study
+  - type: directory
+    path: content/deutsch/case-studies
+    label: All Case Studies (de)
+    create: documents
+    match: "**/*"
+    exclude: _index.md
+    templates:
+      - case-study
+  - type: heading
+    label: Career
+  - type: document
+    path: content/english/career/_index.md
+    label: Career (en)
+  - type: document
+    path: content/deutsch/career/_index.md
+    label: Career (de)
+  - type: directory
+    path: content/english/career
+    label: Career Post (en)
+    create: documents
+    match: "**/*"
+    exclude: _index.md
+    templates:
+      - career
+  - type: directory
+    path: content/deutsch/career
+    label: Career Post (de)
+    create: documents
+    match: "**/*"
+    exclude: _index.md
+    templates:
+      - career
+  - type: heading
+    label: Author
+  - type: directory
+    path: content/english/author
+    label: Author (en)
+    create: all
+    match: "*"
+    templates:
+      - new-author
+  - type: directory
+    path: content/deutsch/author
+    label: Author (de)
+    create: all
+    match: "*"
+    templates:
+      - new-author
+  - type: heading
+    label: Blog
+  - type: document
+    path: content/english/blog/_index.md
+    label: Blog (en)
+  - type: document
+    path: content/deutsch/blog/_index.md
+    label: Blog (de)
+  - type: directory
+    path: content/english/blog
+    label: Blog Posts (en)
+    create: documents
+    match: "**/*"
+    exclude: _index.md
+    templates:
+      - post
+  - type: directory
+    path: content/deutsch/blog
+    label: Blog Posts (de)
+    create: documents
+    match: "**/*"
+    exclude: _index.md
+    templates:
+      - post
+  - type: heading
+    label: Others Page
+  - type: document
+    path: content/english/about.md
+    label: About (en)
+  - type: document
+    path: content/deutsch/about.md
+    label: About (de)
+  - type: document
+    path: content/english/team.md
+    label: Team (en)
+  - type: document
+    path: content/deutsch/team.md
+    label: Team (de)
+  - type: document
+    path: content/english/how-it-works.md
+    label: How It Works (en)
+  - type: document
+    path: content/deutsch/how-it-works.md
+    label: How It Works (de)
+  - type: document
+    path: content/english/get-demo.md
+    label: Get a Demo (en)
+  - type: document
+    path: content/deutsch/get-demo.md
+    label: Get a Demo (de)
+  - type: document
+    path: content/english/pricing.md
+    label: Pricing (en)
+  - type: document
+    path: content/deutsch/pricing.md
+    label: Pricing (de)
+  - type: document
+    path: content/english/faq.md
+    label: FAQ (en)
+  - type: document
+    path: content/deutsch/faq.md
+    label: FAQ (de)
+  - type: document
+    path: content/english/contact.md
+    label: Contact (en)
+  - type: document
+    path: content/deutsch/contact.md
+    label: Contact (de)
+  - type: document
+    path: content/english/privacy-policy.md
+    label: Privacy Policy (en)
+  - type: document
+    path: content/deutsch/privacy-policy.md
+    label: Privacy Policy (de)
+  - type: document
+    path: content/english/terms-conditions.md
+    label: Terms & Conditions (en)
+  - type: document
+    path: content/deutsch/terms-conditions.md
+    label: Terms & Conditions (de)
+  - type: heading
+    label: All Pages
+  - type: directory
+    path: content
+    label: All Pages
+    create: all
+    match: "**/*"
+    exclude: _index.md
+    templates:
+      - new-page
+  - type: heading
+    label: Configuration
+  - type: document
+    path: config/_default/config.toml
+    label: Configuration
+  - type: document
+    path: config/_default/params.toml
+    label: Parameters
+  - type: document
+    path: config.toml
+    label: Variables & Plugins
+  - type: document
+    path: config/_default/languages.toml
+    label: Languages
+  - type: document
+    path: config/_default/menus.en.toml
+    label: Menu (en)
+  - type: document
+    path: config/_default/menus.de.toml
+    label: Menu (de)
+  - type: directory
+    path: i18n
+    label: i18n Translations
+    create: documents
+    match: "**/*"
+upload_dir: assets/images
+public_path: "/images"
+front_matter_path: ""
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+    - HUGO_ENV=staging
+    - HUGO_VERSION=0.87.0
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command:
+    hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: 0.87.0

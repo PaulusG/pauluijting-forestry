@@ -1,0 +1,103 @@
+[[main]]
+weight = 6
+name = "Tjenester"
+hasChildren = true
+[main.params]
+isMenuLarge = true
+
+  [[main]]
+  parent = "Tjenester"
+  name = "Nettside"
+  pre = "<i class='dropdown-icon fas fa-laptop-house'></i>"
+  post = "<small class='dropdown-subtitle'>Wordpress eller statisk nettside</small>"
+  url = "products/website/"
+  weight = 1
+
+  [[main]]
+  parent = "Tjenester"
+  name = "Support"
+  pre = "<i class='dropdown-icon fas fa-dice-d6'></i>"
+  post = "<small class='dropdown-subtitle'>Hjelp når det trengs</small>"
+  url = "products/support/"
+  weight = 2
+
+  [[main]]
+  parent = "Tjenester"
+  name = "Markedsføring"
+  pre = "<i class='dropdown-icon fas fa-users'></i>"
+  post = "<small class='dropdown-subtitle'>Få besøk på nettside</small>"
+  url = "products/marketing/"
+  weight = 3
+
+  [[main]]
+  parent = "Tjenester"
+  name = "Analyse"
+  pre = "<i class='dropdown-icon fas fa-chart-bar'></i>"
+  post = "<small class='dropdown-subtitle'>Alt på nettet kan måles</small>"
+  url = "products/analyse/"
+  weight = 4
+
+  [[main]]
+  parent = "Tjenester"
+  name = "Se alle tjenester"
+  pre = "<i class='dropdown-icon text-primary fas fa-arrow-right'></i>"
+  url = "products/"
+  weight = 5
+
+[[main]]
+name = "Kunder"
+url = "case-studies/"
+weight = 20
+
+[[main]]
+name = "Kontakt"
+url = "contact/"
+weight = 30
+
+# footer menu left
+[[footer_left]]
+name = "P.G. Uijting"
+url = "about/"
+weight = 1
+
+# footer menu middle
+[[footer_middle]]
+name = "Nettside"
+url = "products/website/"
+weight = 1
+
+[[footer_middle]]
+name = "Support"
+url = "products/support/"
+weight = 2
+
+[[footer_middle]]
+name = "Digital markedsføring"
+url = "products/marketing/"
+weight = 3
+
+[[footer_middle]]
+name = "Analyse"
+url = "products/analyse/"
+weight = 4
+
+# footer menu right
+[[footer_right]]
+name = "FAQ"
+url = "faq/"
+weight = 1
+
+[[footer_right]]
+name = "Kontakt"
+url = "contact/"
+weight = 2
+
+[[footer_right]]
+name = "Personvernerklæring"
+url = "privacy-policy/"
+weight = 3
+
+[[footer_right]]
+name = "Vilkår"
+url = "terms-conditions/"
+weight = 4

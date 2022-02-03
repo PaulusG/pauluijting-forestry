@@ -1,0 +1,22 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+ 
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 30
+
+# footer menu left
+[[footer_left]]
+name = "P.G. Uijting"
+url = ""
+weight = 1
+
+
+
+
+
+

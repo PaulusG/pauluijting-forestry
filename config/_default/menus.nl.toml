@@ -1,0 +1,120 @@
+# main menu
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+[[main]]
+weight = 6
+name = "Diensten"
+hasChildren = true
+[main.params]
+isMenuLarge = true
+
+  [[main]]
+  parent = "Diensten"
+  name = "Website"
+  pre = "<i class='dropdown-icon fas fa-laptop-house'></i>"
+  post = "<small class='dropdown-subtitle'>Wordpress of statische website</small>"
+  url = "products/website/"
+  weight = 1
+
+  [[main]]
+  parent = "Diensten"
+  name = "Support"
+  pre = "<i class='dropdown-icon fas fa-dice-d6'></i>"
+  post = "<small class='dropdown-subtitle'>Hulp als het nodig is</small>"
+  url = "products/support/"
+  weight = 2
+
+  [[main]]
+  parent = "Diensten"
+  name = "Digitale marketing"
+  pre = "<i class='dropdown-icon fas fa-users'></i>"
+  post = "<small class='dropdown-subtitle'>Meer bezoek op de site</small>"
+  url = "products/marketing/"
+  weight = 3
+
+  [[main]]
+  parent = "Diensten"
+  name = "Analyse"
+  pre = "<i class='dropdown-icon fas fa-chart-bar'></i>"
+  post = "<small class='dropdown-subtitle'>Alles op het net is te meten</small>"
+  url = "products/analyse/"
+  weight = 4
+
+  [[main]]
+  parent = "Diensten"
+  name = "Bekijk meerdere diensten"
+  pre = "<i class='dropdown-icon text-primary fas fa-arrow-right'></i>"
+  url = "products/"
+  weight = 5
+
+  [[main]]
+name = "Blog"
+url = "blog/"
+weight = 12
+
+  [[main]]
+name = "FAQ"
+url = "faq/"
+weight = 18
+
+[[main]]
+name = "Klanten"
+url = "case-studies/"
+weight = 22
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 30
+
+# footer menu left
+[[footer_left]]
+name = "P.G. Uijting"
+url = "about/"
+weight = 1
+
+# footer menu middle
+[[footer_middle]]
+name = "Website"
+url = "products/website/"
+weight = 1
+
+[[footer_middle]]
+name = "Support"
+url = "products/support/"
+weight = 2
+
+[[footer_middle]]
+name = "Marketing"
+url = "products/marketing/"
+weight = 3
+
+[[footer_middle]]
+name = "Analyse"
+url = "products/analyse/"
+weight = 4
+
+# footer menu right
+[[footer_right]]
+name = "FAQ"
+url = "faq/"
+weight = 1
+
+[[footer_right]]
+name = "Kontakt"
+url = "contact/"
+weight = 2
+
+[[footer_right]]
+name = "Privacy verklaring"
+url = "privacy-policy/"
+weight = 3
+
+[[footer_right]]
+name = "Algemene voorwaarden"
+url = "terms-conditions/"
+weight = 4

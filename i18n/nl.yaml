@@ -1,0 +1,95 @@
+- id: read_more
+  translation: Lees meer
+  
+- id: read_case_study
+  translation: Lees meer over...
+  
+- id: view_product
+  translation: Bekijk product
+
+- id: send
+  translation: Stuur bericht
+
+- id: category
+  translation: Kategorie
+
+- id: tags
+  translation: Tags
+
+- id: by
+  translation: van
+
+- id: min_read
+  translation: min. leestijd
+
+- id: admin
+  translation: Admin
+
+- id: lets_meet
+  translation: Ontdek
+
+- id: prev_case
+  translation: Vorige klant
+
+- id: next_case
+  translation: Volgende klant
+
+- id: apply_for_position
+  translation: Verstuur document
+
+- id: view_all_positions
+  translation: View All Positions
+
+- id: apply_now
+  translation: Apply Now
+
+- id: share_this_job
+  translation: "Deel deze pagina"
+
+- id: other_jobs
+  translation: Other Jobs
+
+- id: all_jobs
+  translation: All Jobs
+  
+- id: fname
+  translation: Voornaam
+  
+- id: full_name
+  translation: Naam
+  
+- id: lname
+  translation: Achternaam
+  
+- id: email
+  translation: Email
+  
+- id: website
+  translation: Website
+  
+- id: organization_size
+  translation: Organization Size (Employees)*
+  
+- id: region
+  translation: Region*
+  
+- id: message
+  translation: Bericht
+  
+- id: submit_now
+  translation: Submit Now
+  
+- id: get_demo
+  translation: Get a Demo
+  
+- id: cv_note
+  translation: alleen doc en pdf bestanden ( <2mb )
+  
+- id: upload_cv
+  translation: Upload bestand
+  
+- id: search_faq
+  translation: Zoek...
+
+- id: disclaimer
+  translation: Ik schrijf deze artikelen op basis van onze eigen ervaringen. We (het media-bureau waar ik voor werkte) hebben gewerkt met midden- en kleinbedrijven op het platteland van Noorwegen. De uitspraken komen volledig voor mijn rekening.

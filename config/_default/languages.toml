@@ -1,0 +1,37 @@
+
+################################### Norsk language #####################################
+[no]
+languageName = "Norsk"
+languageCode = "nb-NO"
+contentDir = "content/norsk"
+weight = 1
+########### footer content ##########
+footer_menu_left = "Bedrift"
+footer_menu_middle = "Produkt"
+footer_menu_right = "Støtte"
+footer_content = "Nettsiden og litt mer..."
+
+
+################################### Nederlands language #####################################
+[nl]
+languageName = "Nederlands"
+languageCode = "nl-NL"
+contentDir = "content/nederlands"
+weight = 2
+########### footer content ##########
+footer_menu_left = "Bedrijf"
+footer_menu_middle = "Producten"
+footer_menu_right = "Support"
+footer_content = "Een Nederlandse webbouwer in Noorwegen."
+
+################################### English language #####################################
+[en]
+languageName = "English"
+languageCode = "en-GB"
+contentDir = "content/english"
+weight = 5
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Products"
+footer_menu_right = "Support"
+footer_content = ""

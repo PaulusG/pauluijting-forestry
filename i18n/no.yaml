@@ -1,0 +1,94 @@
+- id: read_more
+  translation: Les mer
+
+- id: read_case_study
+  translation: Les mer om
+
+- id: view_product
+  translation: Les mer om
+
+- id: send
+  translation: Send melding
+
+- id: category
+  translation: Kategori
+
+- id: tags
+  translation: Tags
+
+- id: by
+  translation: av
+
+- id: min_read
+  translation: min lesetid.
+
+- id: admin
+  translation: Admin
+
+- id: lets_meet
+  translation: Se på
+
+- id: prev_case
+  translation: Forrige
+- id: next_case
+  translation: Neste
+
+- id: apply_for_position
+  translation: Apply for Position
+
+- id: view_all_positions
+  translation: View All Positions
+
+- id: apply_now
+  translation: Apply Now
+
+- id: share_this_job
+  translation: 'Share this job:'
+
+- id: other_jobs
+  translation: Other Jobs
+
+- id: all_jobs
+  translation: All Jobs
+
+- id: fname
+  translation: Fornavn
+
+- id: full_name
+  translation: Full Name
+
+- id: lname
+  translation: Etternavn
+
+- id: email
+  translation: E-post
+
+- id: website
+  translation: Nettsiden
+
+- id: organization_size
+  translation: Organization Size (Employees)*
+
+- id: region
+  translation: Region*
+
+- id: message
+  translation: Melding
+
+- id: submit_now
+  translation: Submit Now
+
+- id: get_demo
+  translation: Get a Demo
+
+- id: cv_note
+  translation: only doc, pdf file allowed & file size will be less than 2MB
+
+- id: upload_cv
+  translation: Upload CV
+
+- id: search_faq
+  translation: Click and search FAQ..
+
+- id: disclaimer
+  translation: Jeg skriver disse artiklene basert på våre egne erfaringer. Vi (mediebyrået jeg jobbet for) har jobbet med små og mellomstore bedrifter i distrikts-Norge. Alle meninger og påstand er mitt ansvar.
