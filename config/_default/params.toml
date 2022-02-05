@@ -20,7 +20,7 @@ mobile = "+4740327731"
 email = "post@pauluijting.no"
 
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "	GTM-5PW3D2Z" # example: G-XXXXXXXXXX
 
 # theme-mode
 theme_switch = true

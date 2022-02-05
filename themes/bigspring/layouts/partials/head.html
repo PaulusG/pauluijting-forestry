@@ -85,7 +85,7 @@
 {{ template "_internal/twitter_cards.html" . }}
 
 <!-- google tag manager -->
-{{ with site.Params.google_tag_manager }}
+{{ if site.Params.google_tag_manager }}
 <script>
   var dataLayer = window.dataLayer = window.dataLayer || [];
   dataLayer.push({
@@ -106,7 +106,7 @@
     j.async = true;
     j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
     f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', '{{ . }}');
+  })(window, document, 'script', 'dataLayer', '{{ site.Params.google_tag_manager }}');
 </script>
 {{ end }}
 
