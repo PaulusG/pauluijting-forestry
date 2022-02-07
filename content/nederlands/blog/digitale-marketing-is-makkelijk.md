@@ -67,12 +67,17 @@ Je kiest hem omdat je (over) hem hebt gehoord en of je hem gezien/ontmoet hebt. 
 
 Hij werkt nu in een collectief van alternatieve therapeuten, dat een uitgebreid netwerk in stad heeft.
 
-Ze organiseren veel lezeingen, seminars, workshops, enz.
+Ze organiseren veel lezeingen, seminars, workshops, enz. Daar komen de meeste klanten nu vandaan.
 
 
 
 
-## 
+### Ervaring
+
+We hebben heel veel geleerd in de afgelopen jaren. Digitale marketing heeft als een van de voordelen dat we alles kunnen meten, klikgedrag, reikwijdte van bezoekers, doorgebrachte tijd op verschillende pagina's. Dat wil echter niet zeggen dat we ook alles kunnen voorspellen. 
+
+Elke digitale kampanje en strategie kunnen we wel meten en aanpassen en soms is die aanpassing dat je de digitale kampanje het beste afsluit.
+
 
 
 
