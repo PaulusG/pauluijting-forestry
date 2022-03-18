@@ -1,5 +1,5 @@
 ---
-title: 'Alternatieven voro Google Analytics'
+title: 'Alternatieven voor Google Analytics'
 date: 2022-03-18T10:07:21+06:00
 # post image
 image: 'images/blog/post-8.jpg'
