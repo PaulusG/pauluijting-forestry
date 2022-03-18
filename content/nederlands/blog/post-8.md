@@ -63,3 +63,5 @@ Adobe Analytics en Piwik Pro zijn al jaren professionele oplossingen. Dit zijn v
 Hubspot doet meer dan analyse van de website. Hubspot is een platform dat software biedt voor marketing, verkoop en klantenservice. Aan de basis staat een CRM waarmee de relatie met klanten beheerd wordt.
 
 Hubspot vraagt een bepaalde inzet van de klanten, voor mijn klanten is dit platform vaak net te groot.
+
+[Officiele documentatie van Digi.no](https://www.digi.no/artikler/sluttdato-satt-for-google-analytics-alle-brukere-ma-over-pa-annen-losning/)
