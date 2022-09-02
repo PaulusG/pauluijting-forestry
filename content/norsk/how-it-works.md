@@ -9,7 +9,7 @@ layout: "how-it-works"
 
 ######################### how it works banner #####################
 banner:
-  title: "Your Partner for the best Software Innovation"
+  title: "Spørretime digital markedsføring"
   image: "images/vector.svg"
   content : "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards. Simple enough with the sophistication and flexibility to meet the needs"
   button:
