@@ -2,7 +2,7 @@
 title: "Spørretime innen digital markedsføring"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Spørretime innen digital markedsføring Stjørdal, fredag 9 september kl. 08.30."
 draft: false
 layout: "how-it-works"
 
