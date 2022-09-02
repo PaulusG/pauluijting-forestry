@@ -21,6 +21,7 @@ how_it_works:
   - title : "Bred digital kompetanse"
     image: "images/how-it-works/01.jpg"
     content : "Digitale markedsførere i Stjørdal står seg sammen for å gi gratis digitale kompetanse.<br>
+    <br>
 Flere digitale markedsførere i Stjørdal som til sammen sitter med bred digital kompetanse inviterer til en spørretime innen digital markedsføring.<br>
 <br>
 Møte arrangeres til et fysisk møte i Stjørdal. 
@@ -28,7 +29,7 @@ Møte arrangeres til et fysisk møte i Stjørdal.
       
   - title : "Digitalisereing"
     image: "images/how-it-works/02.jpg"
-    content : "Det er ofte en terskel for bedrifter å innta digitale markedsføringsløsninger. Grunnen til at dette utsettes for lenge er ofte:<br>
+    content : "Det er ofte en terskel for bedrifter å innta digitale markedsføringsløsninger.<br>Grunnen til at dette utsettes for lenge er ofte:<br>
 - Usikkerhet rundt bruk <br>
 - Vanskelig å navigere seg gjennom et hav av muligheter <br>
 - Utfordringer med å finne en løsning som passer til bedrift sin<br>
