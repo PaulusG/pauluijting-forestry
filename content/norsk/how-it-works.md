@@ -1,5 +1,5 @@
 ---
-title: "How it Works"
+title: "Spørretime innen digital markedsføring"
 subtitle: ""
 # meta description
 description: "This is meta description"
