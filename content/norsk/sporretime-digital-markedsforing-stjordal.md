@@ -43,7 +43,12 @@ Konsekvensen er at digitaliseringen stopper opp fra begge sider, bedriften er us
     image: "images/how-it-works/03.jpg"
     content : "Vi vil gjerne opprette et møtested.<br> Hvor leverandører kan fortelle om digitale løsninger, og bedrifter kan stille uforpliktende spørsmål.<br> 
 <br>
-Det skal være lav terskel for å delta på møtested
+Det skal være lav terskel for å delta på møtested.
+<br>
+<strong> Byrå-er </strong>
+Mokkis, Monica Iversen Foss, [mokkis.no](https://www.mokkis.no/), Tlf: +47 994 30 796, monica@mokkis.no
+Kreativ Konsept, [kreativkonsept.no](https://kreativtkonsept.no/)
+P.G. Uijting, Paul Uijting
 "
       
   - title : "Program:"
