@@ -45,10 +45,10 @@ Konsekvensen er at digitaliseringen stopper opp fra begge sider, bedriften er us
 <br>
 Det skal være lav terskel for å delta på møtested.
 <br>
-<strong> Byrå-er </strong>
-Mokkis, Monica Iversen Foss, [mokkis.no](https://www.mokkis.no/), Tlf: +47 994 30 796, monica@mokkis.no
-Kreativ Konsept, [kreativkonsept.no](https://kreativtkonsept.no/)
-P.G. Uijting, Paul Uijting
+<strong> Byrå-er </strong><br>
+Mokkis, Monica Iversen Foss, [mokkis.no](https://www.mokkis.no/), Tlf: +47 994 30 796, monica@mokkis.no<br>
+Kreativ Konsept, [kreativkonsept.no](https://kreativtkonsept.no/)<br>
+P.G. Uijting, [Paul Uijting](https://pauluijting.no/no/contact/)
 "
       
   - title : "Program:"
