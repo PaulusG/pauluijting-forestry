@@ -1,5 +1,5 @@
 ---
-title: "Pricing"
+title: "Prijzen"
 subtitle: "Everything you need for best in class service"
 description: "Everything you need for best in class service"
 draft: false

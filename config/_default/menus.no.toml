@@ -94,7 +94,7 @@ weight = 2
 
 [[footer_right]]
 name = "Personvernerklæring"
-url = "privacy-policy/"
+url = "Personvernerklaering/"
 weight = 3
 
 [[footer_right]]

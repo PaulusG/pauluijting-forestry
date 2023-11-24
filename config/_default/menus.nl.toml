@@ -61,6 +61,11 @@ name = "FAQ"
 url = "faq/"
 weight = 18
 
+  [[main]]
+name = "Prijzen"
+url = "pricing/"
+weight = 20
+
 [[main]]
 name = "Klanten"
 url = "case-studies/"
