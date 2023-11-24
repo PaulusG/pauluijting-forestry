@@ -18,7 +18,7 @@ about:
 founders_quote:
   name: "P.G. Uijting"
   subtitle: "Webbouwer en marketeer"
-  image: "images/avatar/02.jpg"
+  image: ""
   content: ""
 
 

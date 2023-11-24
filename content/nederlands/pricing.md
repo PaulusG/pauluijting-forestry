@@ -7,34 +7,36 @@ layout: "pricing"
 
 pricing_list:
   # pricing item
-  - name : "Basic Plan"
-    currency: "$"
-    price: "0"
-    price_per : "month"
-    info : "Best For Small Individuals"
+  - name : "Reboot"
+    currency: ""
+    price: "Variabel"
+    price_per : ""
+    info : "Redesign van bestaande site"
     recommended : false
     services:
-    - "Express Service"
-    - "Customs Clearance"
-    - "Time-Critical Services"
+    - "Vernieuwd design"
+    - "Verwijderen en update van code"
+    - "Verbeterde veiligheid"
+    - "Nieuwe functies en 
     button:
       enable : true
       label : "Get started for Free"
       link : "#!"
       
   # pricing item
-  - name : "Professional Plan"
-    currency: "$"
-    price: "49"
-    price_per : "month"
-    info : "Best For Professionals"
+  - name : "Wordpress nettside"
+    currency: "kr."
+    price: "25.000"
+    price_per : ""
+    info : "Ny nettside"
     recommended : true
     services:
-    - "Express Service"
-    - "Customs Clearance"
+    - "Skreddersydde nettside"
+    - "Unike nettside"
+    - "Brandguide, fargepalett, typografi"
     - "Time-Critical Services"
-    - "Cloud Service"
-    - "Best Dashboard"
+    - "Google Analytics & Console"
+    - "Først år oppfølging"
     button:
       enable : true
       label : "Get started"
@@ -54,7 +56,7 @@ pricing_list:
     button:
       enable : true
       label : "Get started"
-      link : "#!"
+      link : "nl/contact/"
 
 
 # faq
