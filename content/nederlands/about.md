@@ -13,13 +13,14 @@ about:
   content: "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards. Simple enough with the flexibility Lorem ipsum dolor sit amet consectetur adipisicing elit. "
   image: "images/about.jpg"
 
-
+<!--
 # founders_quote
 founders_quote:
   name: "P.G. Uijting"
   subtitle: "Webbouwer en marketeer"
   image: ""
   content: ""
+-->
 
 
 # who_we_are
