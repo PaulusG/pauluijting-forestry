@@ -12,7 +12,7 @@
             <div class="card shadow bg-white {{if .recommended}}recommended{{end}} {{if gt $i 2}}mt-lg-5{{end}}">
               <div class="card-body text-center py-6">
                 <h3 class="mb-4 h4">{{ .name | markdownify }}</h3>
-                <span class="lead">{{.currency}}</span><span class="h3">{{ .price }}</span> <span>/{{ .price_per }}</span>
+                <span class="lead">{{.currency}}</span><span class="h3">{{ .price }}</span> <span>{{ .price_per }}</span>
                 <p class="lead mt-4">{{ .info | markdownify }}</p>
                 <ul class="list-unstyled mb-5">
                   {{ range .services }}
