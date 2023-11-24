@@ -17,7 +17,7 @@ pricing_list:
     - "Vernieuwd design"
     - "Verwijderen en update van code"
     - "Verbeterde veiligheid"
-    - "Nieuwe functies en 
+    - "Nieuwe functies en "
     button:
       enable : true
       label : "Get started for Free"
