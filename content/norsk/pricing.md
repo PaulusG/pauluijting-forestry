@@ -23,7 +23,7 @@ pricing_list:
       link : "#!"
       
   # pricing item
-  - name : "Professioneller Plan"
+  - name : "Standard nettside"
     currency: "$"
     price: "49"
     price_per : "Monat"
