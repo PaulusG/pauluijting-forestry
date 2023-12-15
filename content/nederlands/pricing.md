@@ -1,6 +1,7 @@
 ---
 title: "Prijzen"
-subtitle: "Everything you need for best in class service"
+subtitle: "
+Dit betreffen onze standaardtarieven bij aanvang. Eventuele extra aanvullende opdrachten en nieuwe functies zullen in het voortraject worden besproken en overeengekomen. "
 description: "Everything you need for best in class service"
 draft: false
 layout: "pricing"
@@ -33,7 +34,6 @@ pricing_list:
     services:
     - "Uniek design, geen templates"
     - "Analytics & Search Console"
-    - "Brandguide, fargepalett, typografi"
     - "Een 'lichte' wordpress installatie"
     - "Eenvoudig controle over inhoud door ACF"
     - "Eerste jaar, extra uren bijstand "
@@ -68,11 +68,22 @@ faq:
 # call_to_action
 call_to_action:
   enable : true
-  title : "Need a larger plan?"
+  title : "Onderhoud en beveiliging"
   image : "images/vector.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Voor verschillende bedrijven voeren wij een uitgebreid scala aan taken uit. Dit omvat het bijwerken van plugins en WordPress, het analyseren van bezoekers en hun gedrag op de website, evenals regelmatige controles en soms het toevoegen van de juiste inhoud en/of producten. 
+  
+  Onze diensten zijn ontworpen om bedrijven te ondersteunen bij het handhaven van een actuele en goed functionerende online aanwezigheid, zodat zij effectief kunnen inspelen op de behoeften van hun doelgroep en de concurrentie voor kunnen blijven.
+  
+  Onze opdrachten: 
+  Updates uitvoeren: WordPress Core Updates, Plugin Updates
+  Beveiliging: Beveiligingscontroles, Firewall en beveiligingsplugins
+  Back-ups maken
+  Website Performance: Snelheidscontroles, Database optimalisatie
+  Inhoudsbeheer: Inhoudscontrole, Toevoegen van nieuwe inhoud
+  
+  "
   button:
     enable : true
-    label : "Contact Us"
-    link : "contact/"
+    label : "Neem contact"
+    link : "nl/contact/"
 ---
