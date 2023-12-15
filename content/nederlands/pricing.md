@@ -17,7 +17,7 @@ pricing_list:
     - "Nieuw modern design"
     - "Verwijderen/update van code"
     - "Verbeterde veiligheid"
-    - "Nieuwe functies en "
+    - "Nieuwe functies en moderne aanpassingen"
     button:
       enable : true
       label : "Neem contact"
@@ -28,15 +28,15 @@ pricing_list:
     currency: "kr."
     price: "25.000"
     price_per : ""
-    info : "Ny nettside"
+    info : "Nieuwe websitee"
     recommended : true
     services:
-    - "Skreddersydde nettside"
-    - "Unike nettside"
+    - "Uniek design, geen templates"
+    - "Analytics & Search Console"
     - "Brandguide, fargepalett, typografi"
-    - "Time-Critical Services"
-    - "Google Analytics & Console"
-    - "Først år oppfølging"
+    - "Een 'lichte' wordpress installatie"
+    - "Eenvoudig controle over inhoud door ACF"
+    - "Eerste jaar, extra uren bijstand "
     button:
       enable : true
       label : "Neem contact"
@@ -47,11 +47,11 @@ pricing_list:
     currency: "kr. "
     price: "35.000"
     price_per : ""
-    info : "Best For Large Individuals"
+    info : "Volledige webwinkel"
     recommended : false
     services:
-    - "Express Service"
-    - "Customs Clearance"
+    - "Standaard Woocommerce"
+    - ""
     - "Time-Critical Services"
     button:
       enable : true
