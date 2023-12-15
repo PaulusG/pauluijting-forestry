@@ -14,7 +14,7 @@ pricing_list:
     info : "Redesign van bestaande site"
     recommended : false
     services:
-    - "Vernieuwd design"
+    - "Nieuw modern design"
     - "Verwijderen en update van code"
     - "Verbeterde veiligheid"
     - "Nieuwe functies en "
