@@ -51,8 +51,8 @@ pricing_list:
     recommended : false
     services:
     - "Standaard Woocommerce"
-    - ""
-    - "Time-Critical Services"
+    - "Analytics & Search Console"
+    - "Aangepaste instellingen voor 'vracht', 'betaling' en voorraad beheer"
     button:
       enable : true
       label : "Neem contact"
