@@ -16,6 +16,8 @@ draft: false
 
 Hier zijn enkele belangrijke eigenschappen van een goede WordPress-site:
 
+
+
 ### Responsief Ontwerp:
 
 De site past zich aan verschillende schermformaten aan, waardoor een optimale ervaring wordt geboden op zowel desktops als mobiele apparaten.
