@@ -70,18 +70,19 @@ call_to_action:
   enable : true
   title : "Onderhoud en beveiliging"
   image : "images/vector.svg"
-  content : "Voor verschillende bedrijven voeren wij een uitgebreid scala aan taken uit. Dit omvat het bijwerken van plugins en WordPress, het analyseren van bezoekers en hun gedrag op de website, evenals regelmatige controles en soms het toevoegen van de juiste inhoud en/of producten. 
+  content : " <p> Voor verschillende bedrijven voeren wij een uitgebreid scala aan taken uit. Dit omvat het bijwerken van plugins en WordPress, het analyseren van bezoekers en hun gedrag op de website, evenals regelmatige controles en soms het toevoegen van de juiste inhoud en/of producten. 
   <br>
-  Onze diensten zijn ontworpen om bedrijven te ondersteunen bij het handhaven van een actuele en goed functionerende online aanwezigheid, zodat zij effectief kunnen inspelen op de behoeften van hun doelgroep en de concurrentie voor kunnen blijven.
+  <p> Onze diensten zijn ontworpen om bedrijven te ondersteunen bij het handhaven van een actuele en goed functionerende online aanwezigheid, zodat zij effectief kunnen inspelen op de behoeften van hun doelgroep en de concurrentie voor kunnen blijven.</p>
   <br>
-  Onze opdrachten: 
-  <ul>
-    <li> Updates uitvoeren: WordPress Core Updates, Plugin Updates </ul>
-    <li> Beveiliging: Beveiligingscontroles, Firewall en beveiligingsplugins </ul>
-    <li> Back-ups maken </ul>
-    <li> Website Performance: Snelheidscontroles, Database optimalisatie </ul>
-    <li> Inhoudsbeheer: Inhoudscontrole, Toevoegen van nieuwe inhoud </ul>
-  </ul>
+  <p> Onze opdrachten: 
+    <ul>
+      <li> Updates uitvoeren: WordPress Core Updates, Plugin Updates </li>
+      <li> Beveiliging: Beveiligingscontroles, Firewall en beveiligingsplugins </li>
+      <li> Back-ups maken </ul>
+      <li> Website Performance: Snelheidscontroles, Database optimalisatie </li>
+      <li> Inhoudsbeheer: Inhoudscontrole, Toevoegen van nieuwe inhoud </li>
+    </ul>
+  </p>
   
   "
   button:
