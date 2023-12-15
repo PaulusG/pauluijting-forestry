@@ -78,7 +78,7 @@ call_to_action:
     <ul>
       <li> Updates uitvoeren: WordPress Core Updates, Plugin Updates </li>
       <li> Beveiliging: Beveiligingscontroles, Firewall en beveiligingsplugins </li>
-      <li> Back-ups maken </ul>
+      <li> Back-ups maken </li>
       <li> Website Performance: Snelheidscontroles, Database optimalisatie </li>
       <li> Inhoudsbeheer: Inhoudscontrole, Toevoegen van nieuwe inhoud </li>
     </ul>
