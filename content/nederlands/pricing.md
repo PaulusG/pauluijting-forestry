@@ -15,13 +15,13 @@ pricing_list:
     recommended : false
     services:
     - "Nieuw modern design"
-    - "Verwijderen en update van code"
+    - "Verwijderen/update van code"
     - "Verbeterde veiligheid"
     - "Nieuwe functies en "
     button:
       enable : true
-      label : "Get started for Free"
-      link : "#!"
+      label : "Neem contact"
+      link : "nl/contact/"
       
   # pricing item
   - name : "Wordpress nettside"
@@ -39,14 +39,14 @@ pricing_list:
     - "Først år oppfølging"
     button:
       enable : true
-      label : "Get started"
-      link : "#!"
+      label : "Neem contact"
+      link : "nl/contact/"
       
   # pricing item
-  - name : "Business Plan"
-    currency: "$"
-    price: "199"
-    price_per : "month"
+  - name : "Webshop Woocommerce"
+    currency: "kr. "
+    price: "35.000"
+    price_per : ""
     info : "Best For Large Individuals"
     recommended : false
     services:
@@ -55,7 +55,7 @@ pricing_list:
     - "Time-Critical Services"
     button:
       enable : true
-      label : "Get started"
+      label : "Neem contact"
       link : "nl/contact/"
 
 
