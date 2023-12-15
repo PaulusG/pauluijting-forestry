@@ -15,7 +15,7 @@ draft: false
 
 
 Hier zijn enkele belangrijke eigenschappen van een goede WordPress-site:
-
+Een lijstje met begrijpbare begrippen die een goed idee geven van de belangrijkste eigenschappen van een wordpress website.
 
 
 #### Responsief Ontwerp:
